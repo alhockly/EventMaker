@@ -10,8 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-community/datetimepicker": "^7.2.0",
+    "ics": "^3.7.2",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-modal-datetime-picker": "^17.1.0",
+    "react-native-share": "^10.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
